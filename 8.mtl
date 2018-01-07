@@ -1,0 +1,37 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Hard Rough Plastic Grey
+Kd 1 1 1
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Green
+Kd 0.82063 0.652613 0.503822
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Beige
+Kd 0.627512 0.615152 0.615152
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black
+Kd 0.0188449 0.014786 0.0157473
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Grey #1
+Kd 0.627512 0.615152 0.615152
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Brown
+Kd 0.124575 0.160006 0.192905
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Lime Green
+Kd 0.627512 0.615152 0.615152
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Light Blue
+Kd 0.0188449 0.014786 0.0157473
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #1
+Kd 0.0188449 0.014786 0.0157473
+Ks 0.992157 0.992157 0.992157
